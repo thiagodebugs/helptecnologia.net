@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Play', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #f1f4f8!important
+}
+
+@media (max-width:991px) {
+    .border-bottom-mobile {
+        border-bottom: 1px solid #f1f4f8!important
+    }
+}
+
+.color-help {
+    color: #001fff;
+}
+
+.card {
+    box-shadow: 30px 10px 30px #8888885b;
+}

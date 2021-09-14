@@ -1,0 +1,28 @@
+<svg height="50" viewBox="0 0 512 512" width="50" xmlns="http://www.w3.org/2000/svg">
+    <path d="m8 8h256v224h-256zm0 0" fill="#b9dcff" />
+    <path d="m200 96v-32h-32v-24h-64v24h-32v32h-32v104h192v-104zm0 0" fill="#b9dcff" />
+    <path d="m328 8h160v144h-160zm0 0" fill="#b9dcff" />
+    <path d="m376 88h64v144h-64zm0 0" fill="#b9dcff" />
+    <path d="m384 360h48v152h-48zm0 0" fill="#b9dcff" />
+    <path d="m424 152v80h-32v-80h-80v44l16 164h160l16-164v-44zm0 0" fill="#b9dcff" />
+    <g fill="#fff">
+        <path d="m344 264h32v16h-32zm0 0" />
+        <path d="m344 292h32v16h-32zm0 0" />
+        <path d="m440 264h32v16h-32zm0 0" />
+        <path d="m440 292h32v16h-32zm0 0" />
+        <path d="m360 320h16v16h-16zm0 0" />
+        <path d="m440 320h16v16h-16zm0 0" />
+        <path d="m352 32h16v32h-16zm0 0" />
+        <path d="m384 32h16v32h-16zm0 0" />
+        <path d="m416 32h16v32h-16zm0 0" />
+        <path d="m448 32h16v32h-16zm0 0" />
+        <path d="m80 128h16v48h-16zm0 0" />
+        <path d="m112 128h16v48h-16zm0 0" />
+        <path d="m144 128h16v48h-16zm0 0" />
+        <path d="m176 128h16v48h-16zm0 0" />
+    </g>
+    <path d="m0 240h272v-240h-272zm16-224h240v208h-240zm0 0" fill="#2e58ff"/>
+    <path d="m208 56h-32v-24h-80v24h-32v32h-32v120h208v-120h-32zm16 48v88h-176v-88h32v-32h32v-24h48v24h32v32zm0 0" fill="#2e58ff"/>
+    <path
+        d="m496 144v-144h-176v144h-16l.039062 52.800781 16.703126 171.199219h55.257812v144h16v-144h32v144h16v-144h55.257812l16.742188-172v-52zm-160-128h144v128h-32v-64h-80v64h-32zm48 128v-48h48v48h-16v80h-16v-80zm96.742188 208h-145.484376l-15.257812-156v-36h64v80h48v-80h64v35.199219zm0 0" fill="#2e58ff"/>
+</svg>
